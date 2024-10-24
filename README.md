@@ -1,7 +1,7 @@
 # Contract Monthly Claim System (CMCS)
 
 ## Overview
-The **Contract Monthly Claim System (CMCS)** is a web-based application developed using **C#** and the **MVC pattern** in **.NET Core**. It helps manage and automate the monthly claim submissions for contracts, allowing contractors to  submit claims, view history, and track payment statuses.
+The **Contract Monthly Claim System (CMCS)** is a web-based application developed using **C#** and the **MVC pattern** in **.NET Core**. It helps manage and  automate the monthly claim submissions for contracts, allowing contractors to  submit claims, view history, and track payment statuses.
 
 ## Features
 - **User Authentication**: Secure login system with role-based access (Admin, Contractor, and Manager).

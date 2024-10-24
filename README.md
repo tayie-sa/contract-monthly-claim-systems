@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for a **Contract Monthly Claim System (CMCS)** built using **C#** with the **Model View Controller (MVC) pattern** in **.NET Core**:
-
----
-
 # Contract Monthly Claim System (CMCS)
 
 ## Overview

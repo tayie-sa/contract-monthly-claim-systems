@@ -52,7 +52,7 @@ dotnet ef database update
 ```
 
 ### 4. Run the Application
-Once the database is set up, you can start the application using the following command:
+Once the database is set up, you can start the  application using the following command:
 ```bash
 dotnet run
 ```

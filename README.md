@@ -9,7 +9,7 @@ The **Contract Monthly Claim System (CMCS)** is a web-based application develope
 - **Manager Dashboard**: Managers can approve or reject claims.
 - **Admin Panel**: Admin users can manage users, contracts, and view overall claim statistics.
 - **Email Notifications**: Automatic notifications when claims are submitted, approved,  or rejected.
-- **Responsive UI**: User-friendly interface that works on both desktop and mobile devices.
+- **Responsive UI**: User-friendly  interface that works on both desktop and mobile devices.
 - **Reports**: Generate PDF or Excel reports on contract claims.
 
 ## Technologies Used

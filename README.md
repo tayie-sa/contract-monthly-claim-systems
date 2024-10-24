@@ -17,7 +17,7 @@ The **Contract Monthly Claim System (CMCS)** is a web-based application develope
 - **C#**: Programming language for the application logic.
 - **ASP.NET Core MVC**: For building the Model-View-Controller architecture.
 - **Entity Framework Core**: ORM for database management.
-- **SQL Server**: Database to store user and claim data.
+- **SQL Server**: Database  to store user and claim data.
 - **Bootstrap**: Front-end framework for responsive design.
 - **Identity Framework**: For authentication and authorization.
 
